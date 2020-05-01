@@ -1,8 +1,2 @@
-测试
-测试2
-测试git statusasf
-asfasfas
-asfaf
-测试分支
-测试冲突
+测试git push https://github.com/15926290438/15897731735.git
 
